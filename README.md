@@ -81,3 +81,7 @@ Now to confirm that everything went well you can run one of the test functions .
 ./bin/test_CG_dsolve 
 ```
 it doesn't need to be test_CG_dsolve, this was just used as an example.
+
+## Documentation
+To access the documentation page of the library simply follow the link:
+[Documentation](https://johnzik.github.io/Cpp-Project/)
