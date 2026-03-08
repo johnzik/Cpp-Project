@@ -42,7 +42,7 @@ Make sure you have **all of the following installed** before reading the Setup I
 
     Clone the repo:
     ```
-    git clone https://github.com/VictorMeimariss/Cpp-Project.git
+    git clone https://github.com/johnzik/Cpp-Project.git
     ```
 
     Then get inside the project root folder:
