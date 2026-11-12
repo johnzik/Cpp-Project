@@ -13,11 +13,15 @@
 #include <stdexcept>
 #include "def.hpp"
 
+// extern "C" 
+// {
+//       #include "../inc/mmio.h"
+// }
+
 extern "C" 
 {
-      #include "../inc/mmio.h"
+      #include "mmio.h"
 }
-
 namespace dense {
     template<typename T>
     class matrix; // forward declaration
